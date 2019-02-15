@@ -6,3 +6,6 @@ Vehicle re-identification implementing RepNet
 ![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/RepNet.png)
 ## Reference: </br>
 [Deep_Relative_Distance_CVPR_2016_paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf) </br>
+
+## Dataset: </br>
+[VehicleID dataset](https://pan.baidu.com/s/1JKOysKjrlgReuxZ2ONCmUQ) </br>
