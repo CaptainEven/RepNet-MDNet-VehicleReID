@@ -4,6 +4,9 @@ Vehicle re-identification implementing RepNet
 ## Vehicle ReID task: </br>
 ![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/VehicleReIDTask.png)
 
+## Basic principle for vehicle ReID task: </br>
+Using a two-branch deep convolutional network to project raw vehicle images into an Euclidean space where distance can be directly used to measure the similarity of arbitrary two vehicles.
+
 # Test result
 ![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/TestResult.png)
 
