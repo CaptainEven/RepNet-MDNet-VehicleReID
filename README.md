@@ -12,7 +12,7 @@ Vehicle re-identification implementing RepNet
 ![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/RepNet2.png)
 
 ## Reference: </br>
-[Deep_Relative_Distance_CVPR_2016_paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf) </br>
+[Deep Relative Distance Learning: Tell the Difference Between Similar Vehicles](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf) </br>
 [Learning a repression network for precise vehicle search](https://arxiv.org/pdf/1708.02386.pdf) </br>
 
 ## Dataset: </br>
