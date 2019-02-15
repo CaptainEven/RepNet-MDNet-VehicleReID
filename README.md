@@ -4,7 +4,7 @@ Vehicle re-identification implementing RepNet
 ![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/VehicleReIDTask.png)
 
 # Test result
-![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/test%20result.png)
+![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/TestResult.png)
 
 ## Network structure: </br>
 ![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/RepNet.png)
