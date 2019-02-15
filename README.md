@@ -2,6 +2,10 @@
 Vehicle re-identification implementing RepNet
 ## Vehicle ReID task: </br>
 ![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/VehicleReIDTask.png)
+
+# Test result
+![](https://github.com/CaptainEven/Vehicle-Car-detection-and-multilabel-classification/blob/master/test_result/test_5.jpg)
+
 ## Network structure: </br>
 ![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/RepNet.png)
 ## Reference: </br>
