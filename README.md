@@ -1,7 +1,7 @@
 # RepNet-Vehicle-ReID
 Vehicle re-identification implementing RepNet
 ## Vehicle ReID task: </br>
-![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/RepNet.png)
+![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/VehicleReIDTask.png)
 ## Network structure: </br>
 ![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/RepNet.png)
 ## Reference: </br>
