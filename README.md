@@ -6,7 +6,7 @@ Vehicle re-identification implementing RepNet
 
 ## Basic principle for vehicle ReID task: </br>
 Using a two-branch deep convolutional network to project raw vehicle images into an Euclidean space where distance can be directly used to measure the similarity of arbitrary two vehicles. </r>
-For simplicity, triplet loss or coupled cluster loss was replaced by arc loss which is widely used in face recognition.
+For simplicity, triplet loss or coupled cluster loss is replaced here by arc loss which is widely used in face recognition.
 
 # Test result
 ![](https://github.com/CaptainEven/RepNet-Vehicle-ReID/blob/master/TestResult.png)
