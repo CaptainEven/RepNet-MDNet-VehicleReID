@@ -337,7 +337,6 @@ class InitRepNet(torch.nn.Module):
                 branch,
                 label=None):
         """
-        先单独训练branch_1, 然后brach_1, branch_2, branch_3联合训练
         :param X:
         :param branch:
         :param label:
