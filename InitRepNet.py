@@ -29,8 +29,8 @@ class InitRepNet(torch.nn.Module):
         self.out_ids, self.out_attribs = out_ids, out_attribs
         print('=> out_ids: %d, out_attribs: %d' % (self.out_ids, self.out_attribs))
 
-        feats = vgg_orig.RAModel.features._modules
-        classifier = vgg_orig.RAModel.classifier._modules
+        feats = vgg_orig.model.features._modules
+        classifier = vgg_orig.model.classifier._modules
 
         # Conv1
         self.conv1_1 = copy.deepcopy(feats['0'])  # (0)
