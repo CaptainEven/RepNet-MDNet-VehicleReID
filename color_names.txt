@@ -1,0 +1,7 @@
+black 0
+blue 1
+gray 2
+red 3
+sliver 4
+white 5
+yellow 6
