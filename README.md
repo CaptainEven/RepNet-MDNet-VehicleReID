@@ -21,3 +21,7 @@ For simplicity, triplet loss or coupled cluster loss is replaced here by arc los
 
 ## Dataset: </br>
 [VehicleID dataset](https://pan.baidu.com/s/1JKOysKjrlgReuxZ2ONCmUQ) </br>
+
+## Pre-trained model
+[model](https://pan.baidu.com/s/1vJiwBfR3f9Zc9NCuUbmEsw) </br>
+extract code: 62wn
